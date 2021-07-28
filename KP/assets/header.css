@@ -1,0 +1,39 @@
+div {
+    display: block;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.judulutama{
+    font-weight: bold;
+    padding-left: 20px;
+    padding-bottom: 15px;
+    font-size: 30px;
+}
+
+#select{
+    cursor: pointer;
+    position: fixed;
+    left: 1250px;
+    border-radius: 5px;
+    width: 80px;
+    height: 30px;
+    font-size: 20ox;
+}
+
+#header{
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 1px;
+}
+
+.bottom {
+    border: 1px solid #295c7d;
+    text-align: left;
+    width: 100%;
+    background-color: #295c7d;
+    color: #fff;
+}

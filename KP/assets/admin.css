@@ -1,0 +1,43 @@
+td, th {
+    border: 2px solid #000000;
+    text-align: center;
+    padding: 8px;
+}
+
+.tambah{
+    margin: 20px;
+    font-size: 20px;
+}
+
+.dosen {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    margin: 10px;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+  
+input[type=submit] {
+    width: 10%;
+    background-color: #295c7d;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.tambah_dosen{
+    border-radius: 5px;
+    background-color: #cfcdcd;
+    padding: 20px;
+}
